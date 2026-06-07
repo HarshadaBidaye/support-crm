@@ -133,7 +133,7 @@ Create a `.env` file:
 ---
 
 ## 🙏 Note on AI Usage
-This project was built with the help of AI tools like Claude and ChatGPT. As the assignment encouraged, AI tools are how real developers work today. All code has been understood, debugged, and deployed by me.
+This project was built with the help of AI tools. As the assignment encouraged, AI tools are how real developers work today. All code has been understood, debugged, and deployed by me.
 
 ---
 
