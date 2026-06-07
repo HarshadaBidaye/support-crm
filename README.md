@@ -34,6 +34,7 @@ A fully functional Customer Support Ticket Management System built with Python F
 ---
 
 ## 📁 Project Structure
+```
 support-crm/
 ├── main.py          # FastAPI app, all routes
 ├── database.py      # Database connection setup
@@ -46,7 +47,7 @@ support-crm/
 ├── static/          # Static files
 ├── requirements.txt # Python dependencies
 └── README.md
----
+```
 
 ## 🚀 Local Setup
 
